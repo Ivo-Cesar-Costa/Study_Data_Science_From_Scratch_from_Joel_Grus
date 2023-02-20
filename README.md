@@ -1,1 +1,1 @@
-# Study_Data_Science_From_Scratch_from_Joel_Grus
+# Study done using the book Data Science from Scratch by Joel Grus
